@@ -9,6 +9,8 @@ public class NewTest {
         System.out.println("cOOONFLICT");
         System.out.println("change stroki");
         System.out.println("c111111hange stroki");
+        System.out.println("[xer");
+        Assertions.assertTrue(true);
         Assertions.assertTrue(true);
     }
 
