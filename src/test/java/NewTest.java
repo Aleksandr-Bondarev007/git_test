@@ -7,6 +7,7 @@ public class NewTest {
     public void testTest(){
         System.out.println("hello world");
         System.out.println("cOOONFLICT");
+        System.out.println("change stroki");
         Assertions.assertTrue(true);
     }
 
