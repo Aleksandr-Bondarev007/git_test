@@ -6,6 +6,7 @@ public class NewTest {
     @Test
     public void testTest(){
         System.out.println("hello world");
+        System.out.println("cOOONFLICT");
         Assertions.assertTrue(true);
     }
 
